@@ -16,3 +16,11 @@ A command-line Rock Paper Scissors game built in Python.
 ## How to Run
 
 Rock_Paper_Scissors_Game.py
+
+## What I Learned
+
+- Functions
+- Conditional statements
+- Lists
+- Random module
+- Debugging logic errors
